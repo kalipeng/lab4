@@ -2,6 +2,10 @@
 
 ## Part 1: Data Collection Discussion
 
+
+https://github.com/user-attachments/assets/294a693b-21ff-4620-a7a0-050fe3f3c37a
+
+
 **Question:** Why should you use training data collected by multiple students rather than using your own collected data only? Think about the effectiveness and reliability of your wand.
 
 **Answer:** Using training data collected by multiple students rather than relying solely on individual data is crucial for creating an effective and reliable magic wand system. When only one person's gesture data is used for training, the model becomes highly specialized to that individual's specific movement patterns, hand size, gesture speed, and execution style, leading to severe overfitting. This results in a model that performs well for the original data collector but fails dramatically when used by others. In contrast, incorporating data from multiple students introduces natural variation in gesture execution, accounting for differences in physical characteristics, movement habits, and interpretation of the same gesture. This diversity helps the model learn the essential features that define each gesture while remaining robust to individual differences. The increased dataset size from multiple contributors also provides better statistical representation of each gesture class, reducing the likelihood of the model memorizing specific patterns rather than learning generalizable features. Furthermore, real-world applications demand that the magic wand work reliably across different users, making multi-user training data essential for practical deployment. The collaborative approach also helps identify and address edge cases or unusual gesture variations that might not appear in a single person's data, ultimately creating a more robust and universally applicable gesture recognition system.
