@@ -7,7 +7,10 @@
 <img width="1253" alt="Screenshot 2025-05-22 at 11 25 31 AM" src="https://github.com/user-attachments/assets/ed08e459-63b0-48c1-9f29-fc548d2f336e" />
 ![8681747702308_ pic](https://github.com/user-attachments/assets/10195de6-fbd4-45f0-a670-066cd38f4f05)
 ![8311747553162_ pic](https://github.com/user-attachments/assets/27a30127-370c-4cdb-bc5b-241ce6587792)
-<img width="776" alt="Screenshot 2025-05-22 at 11 50 54 AM" src="https://github.com/user-attachments/assets/60141a03-a3ba-4ccd-9c3d-466346f6460d" />
+<img width="776" alt="Screenshot 2025-05-22 at 11 50 54 AM" src="https://github.com/use[kellypeng-project-1 - Spectral features - Edge Impulse.pdf](https://github.com/user-attachments/files/20399024/kellypeng-project-1.-.Spectral.features.-.Edge.Impulse.pdf)
+[sgks.pdf](https://github.com/user-attachments/files/20399023/sgks.pdf)
+[kellypeng-project-1 - Classifier - Edge Impulse.pdf](https://github.com/user-attachments/files/20399022/kellypeng-project-1.-.Classifier.-.Edge.Impulse.pdf)
+r-attachments/assets/60141a03-a3ba-4ccd-9c3d-466346f6460d" />
 
 
 ## Part 1: Data Collection Discussion
