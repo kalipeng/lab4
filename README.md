@@ -2,7 +2,11 @@
 
    - Data collection process and results
    - Edge Impulse model architecture and optimization
-   - Performance analysis and metrics
+   - Performance analysis and metrics<img width="537" alt="Screenshot 2025-05-22 at 12 09 11 PM" src="https://github.com/user-attachments/assets/2e36ab0d-98d2-43f3-b147-3264294d92cf" />
+   <img width="547" alt="Screenshot 2025-05-22 at 12 09 24 PM" src="https://github.com/user-attachments/assets/8ca803d3-d88f-46ff-8e8b-3652831417e1" />
+
+
+
      <img width="827" alt="Screenshot 2025-05-22 at 11 25 10 AM" src="https://github.com/user-attachments/assets/d68a3ee6-e047-4b29-a3ca-789e09020ee1" />
 <img width="1253" alt="Screenshot 2025-05-22 at 11 25 31 AM" src="https://github.com/user-attachments/assets/ed08e459-63b0-48c1-9f29-fc548d2f336e" />
 ![8681747702308_ pic](https://github.com/user-attachments/assets/10195de6-fbd4-45f0-a670-066cd38f4f05)
