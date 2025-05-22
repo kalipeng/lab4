@@ -1,7 +1,14 @@
 # TECHIN515 Lab 4 Magic Wand - Discussion Questions
 
-## Part 1: Data Collection Discussion
+   - Data collection process and results
+   - Edge Impulse model architecture and optimization
+   - Performance analysis and metrics
+     <img width="827" alt="Screenshot 2025-05-22 at 11 25 10 AM" src="https://github.com/user-attachments/assets/d68a3ee6-e047-4b29-a3ca-789e09020ee1" />
+<img width="1253" alt="Screenshot 2025-05-22 at 11 25 31 AM" src="https://github.com/user-attachments/assets/ed08e459-63b0-48c1-9f29-fc548d2f336e" />
+![8681747702308_ pic](https://github.com/user-attachments/assets/10195de6-fbd4-45f0-a670-066cd38f4f05)
+![8311747553162_ pic](https://github.com/user-attachments/assets/27a30127-370c-4cdb-bc5b-241ce6587792)
 
+## Part 1: Data Collection Discussion
 
 https://github.com/user-attachments/assets/294a693b-21ff-4620-a7a0-050fe3f3c37a
 
