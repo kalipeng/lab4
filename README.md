@@ -13,7 +13,19 @@
 r-attachments/assets/60141a03-a3ba-4ccd-9c3d-466346f6460d" />
 <img width="776" alt="Screenshot 2025-05-22 at 11 50 54 AM" src="https://github.com/user-attachments/assets/74efd7cd-0f9d-4c7a-9410-4f197529330f" />
 
+## Data Collection Process and Results
 
+The gesture recognition system collected training data for three distinct gestures: O, V, and Z patterns using 3-axis accelerometer sensors. The dataset consisted of 86 training windows across these three classes, with a total training duration of 1 minute and 27 seconds. The data collection process captured raw sensor values (such as 1.4900, -6.3400, 8.2900 for x, y, z axes) which were then processed through spectral analysis. This approach ensured sufficient sample diversity for each gesture class while maintaining a manageable dataset size suitable for embedded machine learning applications.
+
+## Edge Impulse Model Architecture and Optimization
+
+The Edge Impulse platform implemented a two-stage processing pipeline: spectral feature extraction followed by neural network classification. The spectral analysis block used FFT with a length of 16 to transform raw accelerometer data into frequency domain features, generating 39 processed spectral features from the raw sensor inputs. These features captured the frequency characteristics that distinguish between O, V, and Z gestures. The neural network classifier employed a compact architecture with an input layer accepting 39 spectral features, followed by two dense layers containing 20 and 10 neurons respectively, and concluding with a 3-class output layer. This streamlined design achieved optimal performance while maintaining low computational requirements for embedded deployment.
+
+## Performance Analysis and Metrics
+
+The implemented model achieved strong performance with **94.4% validation accuracy** and low loss of 0.15. The confusion matrix revealed excellent recognition for gestures O and Z (100% accuracy each), while gesture V showed 83.3% accuracy with some confusion with gesture O. The model demonstrated robust performance metrics including an Area under ROC Curve of 1.00, weighted average precision of 0.95, and weighted average F1 score of 0.94. 
+
+**On-device performance** was highly optimized for embedded deployment: inference time of just 1ms, peak RAM usage of 1.4KB, and flash memory usage of 16.1KB. The spectral feature processing required 10ms processing time with 2KB peak RAM usage. The neural network architecture used 39 spectral features as input, processed through dense layers of 20 and 10 neurons respectively, trained for 100 cycles with a learning rate of 0.0005. This efficient architecture successfully balanced accuracy with computational constraints suitable for real-time gesture recognition on resource-limited devices.
 ## Part 1: Data Collection Discussion
 
 https://github.com/user-attachments/assets/294a693b-21ff-4620-a7a0-050fe3f3c37a
