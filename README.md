@@ -11,6 +11,7 @@
 [sgks.pdf](https://github.com/user-attachments/files/20399023/sgks.pdf)
 [kellypeng-project-1 - Classifier - Edge Impulse.pdf](https://github.com/user-attachments/files/20399022/kellypeng-project-1.-.Classifier.-.Edge.Impulse.pdf)
 r-attachments/assets/60141a03-a3ba-4ccd-9c3d-466346f6460d" />
+<img width="776" alt="Screenshot 2025-05-22 at 11 50 54 AM" src="https://github.com/user-attachments/assets/74efd7cd-0f9d-4c7a-9410-4f197529330f" />
 
 
 ## Part 1: Data Collection Discussion
